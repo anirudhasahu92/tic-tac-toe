@@ -103,7 +103,7 @@ cd tic-tac-toe
 
 ## Contributer
 
-The is contributed by **Anirudha Kumar Sahu**
+**Anirudha Kumar Sahu**
 
 ---
 
