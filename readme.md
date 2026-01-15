@@ -103,7 +103,7 @@ cd tic-tac-toe
 
 ## Contributer
 
-**Anirudha Kumar Sahu**
+This project is contributed on GitHub by **Anirudha Kumar Sahu**
 
 ---
 
