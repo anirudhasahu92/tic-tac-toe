@@ -40,13 +40,7 @@ TIC TAC TOE/
 2. Run the following command:
 
 ```bash
-git clone <your-repository-url>
-```
-
-Example:
-
-```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/anirudhasahu92/tic-tac-toe.git
 ```
 
 3. Move into the project folder:
